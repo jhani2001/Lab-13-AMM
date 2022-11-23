@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>LocalDatabase</id>
+    <version>1.0.0</version>
+    <authors>LocalDatabase</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETStandard1.4">
+        <dependency id="NETStandard.Library" version="1.6.1" exclude="Build,Analyzers" />
+        <dependency id="Xamarin.Essentials" version="1.7.0" exclude="Build,Analyzers" />
+        <dependency id="Xamarin.Forms" version="5.0.0.2196" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\JHANINA\source\repos\LocalDatabase\LocalDatabase\LocalDatabase\bin\Debug\netstandard1.4\LocalDatabase.dll" target="lib\netstandard1.4\LocalDatabase.dll" />
+  </files>
+</package>

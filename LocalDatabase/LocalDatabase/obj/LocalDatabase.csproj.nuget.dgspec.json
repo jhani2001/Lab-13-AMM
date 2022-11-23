@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\JHANINA\\source\\repos\\LocalDatabase\\LocalDatabase\\LocalDatabase\\LocalDatabase.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\JHANINA\\source\\repos\\LocalDatabase\\LocalDatabase\\LocalDatabase\\LocalDatabase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JHANINA\\source\\repos\\LocalDatabase\\LocalDatabase\\LocalDatabase\\LocalDatabase.csproj",
+        "projectName": "LocalDatabase",
+        "projectPath": "C:\\Users\\JHANINA\\source\\repos\\LocalDatabase\\LocalDatabase\\LocalDatabase\\LocalDatabase.csproj",
+        "packagesPath": "C:\\Users\\JHANINA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JHANINA\\source\\repos\\LocalDatabase\\LocalDatabase\\LocalDatabase\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\JHANINA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard1.4"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard1.4": {
+            "targetAlias": "netstandard1.4",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard1.4": {
+          "targetAlias": "netstandard1.4",
+          "dependencies": {
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2196, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

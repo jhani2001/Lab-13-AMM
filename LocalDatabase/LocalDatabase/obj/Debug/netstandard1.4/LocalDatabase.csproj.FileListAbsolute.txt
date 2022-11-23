@@ -1,0 +1,15 @@
+C:\Users\JHANINA\source\repos\LocalDatabase\LocalDatabase\LocalDatabase\bin\Debug\netstandard1.4\LocalDatabase.deps.json
+C:\Users\JHANINA\source\repos\LocalDatabase\LocalDatabase\LocalDatabase\bin\Debug\netstandard1.4\LocalDatabase.dll
+C:\Users\JHANINA\source\repos\LocalDatabase\LocalDatabase\LocalDatabase\bin\Debug\netstandard1.4\LocalDatabase.pdb
+C:\Users\JHANINA\source\repos\LocalDatabase\LocalDatabase\LocalDatabase\obj\Debug\netstandard1.4\LocalDatabase.csproj.AssemblyReference.cache
+C:\Users\JHANINA\source\repos\LocalDatabase\LocalDatabase\LocalDatabase\obj\Debug\netstandard1.4\LocalDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JHANINA\source\repos\LocalDatabase\LocalDatabase\LocalDatabase\obj\Debug\netstandard1.4\App.xaml.g.cs
+C:\Users\JHANINA\source\repos\LocalDatabase\LocalDatabase\LocalDatabase\obj\Debug\netstandard1.4\MainPage.xaml.g.cs
+C:\Users\JHANINA\source\repos\LocalDatabase\LocalDatabase\LocalDatabase\obj\Debug\netstandard1.4\LocalDatabase.AssemblyInfoInputs.cache
+C:\Users\JHANINA\source\repos\LocalDatabase\LocalDatabase\LocalDatabase\obj\Debug\netstandard1.4\LocalDatabase.AssemblyInfo.cs
+C:\Users\JHANINA\source\repos\LocalDatabase\LocalDatabase\LocalDatabase\obj\Debug\netstandard1.4\LocalDatabase.csproj.CoreCompileInputs.cache
+C:\Users\JHANINA\source\repos\LocalDatabase\LocalDatabase\LocalDatabase\obj\Debug\netstandard1.4\XamlC.stamp
+C:\Users\JHANINA\source\repos\LocalDatabase\LocalDatabase\LocalDatabase\obj\Debug\netstandard1.4\LocalDatabase.dll
+C:\Users\JHANINA\source\repos\LocalDatabase\LocalDatabase\LocalDatabase\obj\Debug\netstandard1.4\refint\LocalDatabase.dll
+C:\Users\JHANINA\source\repos\LocalDatabase\LocalDatabase\LocalDatabase\obj\Debug\netstandard1.4\LocalDatabase.pdb
+C:\Users\JHANINA\source\repos\LocalDatabase\LocalDatabase\LocalDatabase\obj\Debug\netstandard1.4\ref\LocalDatabase.dll
